@@ -1,9 +1,10 @@
-### HOW TO: Activate VritualEnv
+v0.12
+### What is this
+A CV/DL model that trains on xray images (or similar) to predict deceases etc. 
+
+## HOW TO: Activate VritualEnv
 
 ```source ~/.virtualenvs/xray/bin/activate```
 
-pip install scikit-learn
-pip install matplotlib
-pip install progressbar2
-pip install beautifulsoup4
-pip install pandas
+## SOURCE
+pyimagesearch article on c19 prediction with CV/DL on xray images.
